@@ -69,3 +69,7 @@ Most of the important applications of Deep Learning are discussed in this paper 
 8.	Sonka, M., Hlavac, V., & Boyle, R. (2014). Image processing, analysis, and machine vision. Cengage Learning. 
 
 
+# Author Details
+Name: ```Harsh Kumawat```
+
+E-mail: ```kumawatharsh2004@gmail.com```
